@@ -1,4 +1,4 @@
-# basicRAT
+# RAT
 
 This is a cross-platform Python 2.7.x Remote Access Trojan (RAT). Currently still a work in progress, and gets hacked on as time allows. See the `binaries/` folder for prebuilt client executables.
 
