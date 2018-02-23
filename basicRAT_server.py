@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 
 #
-# basicRAT server
-# https://github.com/vesche/basicRAT
+# RAT server
+# https://github.com/harshivara/RAT
 #
 
 import argparse
